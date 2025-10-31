@@ -1,0 +1,1 @@
+# Adaptador DB (SQLite/Postgres)
